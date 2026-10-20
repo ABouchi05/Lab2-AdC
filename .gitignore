@@ -1,0 +1,8 @@
+build/
+__pycache__/
+*-output.log
+*.o
+*.elf
+*.bin
+*.json
+!.vscode/tasks.json
